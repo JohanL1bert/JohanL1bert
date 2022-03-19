@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋m I'm Roman
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanL1bert)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanL1bert&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+
+### CodeWars
+1) Profile link https://www.codewars.com/users/JohanL1bert
+2) Stats
+
+[![codewars](https://www.codewars.com/users/JohanL1bert/badges/large)](https://www.codewars.com/users/JohanL1bert) 
 
 <!--
 **JohanL1bert/JohanL1bert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
