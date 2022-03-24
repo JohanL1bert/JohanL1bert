@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Roman
 - 🌱 I’m currently learning React
-- 📫 How to reach me: telegram: @deus3xmachina, mail: grimmerw968@gmail.com
+
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanL1bert)](https://github.com/anuraghazra/github-readme-stats)
